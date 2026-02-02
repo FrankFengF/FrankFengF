@@ -21,8 +21,17 @@ My interests lie at the intersection of machine learning and healthcare. I aim t
 
 ## 🧩 Experience & Projects
 
-### 🏥 Drug-Drug Interaction Prediction
-**Machine Learning · Healthcare · Biostatistics**  
+###  🏥 Healthcare LLM (Ongoing)
+**Large Language Models · Healthcare AI · Real-World Evidence (RWE)**  
+Developing a healthcare-focused large language model trained on real-world evidence (RWE) data,
+with the goal of modeling clinical context and supporting downstream healthcare analytics
+and decision-making tasks.  
+🔗 *Ongoing project (code to be released)*
+
+---
+
+### 💊 Drug-Drug Interaction Prediction
+**Machine Learning · Healthcare · Bioinformatics**  
 Developed similarity-based machine learning models to predict drug–drug interactions
 using structured features derived from DrugBank.
 This project focuses on supporting clinical decision-making in healthcare contexts.  
@@ -31,7 +40,7 @@ This project focuses on supporting clinical decision-making in healthcare contex
 ---
 
 ### 🏙️ Airbnb Price Prediction
-**Data Science · Regression · Feature Engineering**  
+**Data Science · Clustering · Feature Engineering**  
 Built an end-to-end data science pipeline for predicting Airbnb listing prices,
 including data cleaning, feature engineering, model selection, and evaluation.  
 🔗 [View Project](https://github.com/FrankFengF/Airbnb-Price-Prediction)
@@ -47,7 +56,7 @@ Grad-CAM to visualize model attention and improve interpretability.
 ---
 
 ### 🎨 Generative AI & Model Robustness (NightShade)
-**Generative Models · Stable Diffusion · AI Safety**  
+**Generative Models · Fine-tune · AI Safety**  
 Conducted an empirical study on the effectiveness of NightShade in disrupting
 image generative models, with a focus on data poisoning and model robustness.  
 🔗 [View Project](https://github.com/FrankFengF/gen_ai_stablediffusion_nightshade)
@@ -55,7 +64,7 @@ image generative models, with a focus on data poisoning and model robustness.
 ---
 
 ### 🖌️ Artist Influence Analysis on Stable Diffusion
-**Generative AI · Evaluation · LAION Score**  
+**Stable Diffusion · Prompt Engineering · Quantitative Analysis**  
 Analyzed the influence of artist styles on Stable Diffusion outputs using LAION scores,
 quantifying stylistic attribution in large-scale generative models.  
 🔗 [View Project](https://github.com/FrankFengF/Greg-Rutkowski-influence-on-Stable-Diffusion)
