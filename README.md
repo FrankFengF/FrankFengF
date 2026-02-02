@@ -56,7 +56,7 @@ Grad-CAM to visualize model attention and improve interpretability.
 ---
 
 ### 🎨 Generative AI & Model Robustness (NightShade)
-**Generative Models · Fine-tune · AI Safety**  
+**Generative Models · Model Fine-tuning · AI Safety**  
 Conducted an empirical study on the effectiveness of NightShade in disrupting
 image generative models, with a focus on data poisoning and model robustness.  
 🔗 [View Project](https://github.com/FrankFengF/gen_ai_stablediffusion_nightshade)
