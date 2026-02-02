@@ -21,7 +21,7 @@ My interests lie at the intersection of machine learning and healthcare. I aim t
 
 ## 🧩 Experience & Projects
 
-###  🏥 Healthcare LLM (Ongoing)
+###  🏥 Healthcare LLM 
 **Large Language Models · Healthcare AI · Real-World Data (RWD)**  
 Developing a healthcare-focused large language model trained on Electronic Health Records (EHR),
 with the goal of modeling clinical context and supporting downstream healthcare analytics
