@@ -26,7 +26,7 @@ My interests lie at the intersection of machine learning and healthcare. I aim t
 Developing a healthcare-focused large language model trained on Electronic Health Records (EHR),
 with the goal of modeling clinical context and supporting downstream healthcare analytics
 and decision-making tasks.  
-🔗 *Ongoing project (code to be released)*
+🔗 *Ongoing project*
 
 ---
 
