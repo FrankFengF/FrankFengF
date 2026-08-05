@@ -2,7 +2,7 @@ Hi, I am Frank Feng ![](https://user-images.githubusercontent.com/18350557/17630
 ===================================================================================================================================
 Data Science & Machine Learning & Healthcare
 --------------------------------------------
-I am an M.S. student in Biostatistics at the Harvard T.H. Chan School of Public Health.
+I am an M.S. student in Biostatistics at the Harvard T.H. Chan School of Public Health, former Bioinformatics Data Science Intern at Roche Diagnostics.
 
 My interests lie at the intersection of machine learning and healthcare. I aim to apply machine learning and AI methods to support clinical decision-making, even by a 1% improvement.
 
