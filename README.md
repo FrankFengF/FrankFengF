@@ -9,6 +9,7 @@ My interests lie at the intersection of machine learning and healthcare. I aim t
 * 🌍  I'm based in Boston, MA, USA
 * 🖥️  See my portfolio at [My Portfolio](http://frankfengf.github.io/)
 * ✉️  You can contact me at [frankfeng1202@gmail.com](mailto:frankfeng1202@gmail.com)
+* 🎓  View my publications on [My Google Scholar Profile]([https://scholar.google.com/citations?user=Ob19EREAAAAJ&hl=en](https://scholar.google.com/citations?user=Ob19EREAAAAJ)
 * 🧠  I'm currently working on AI agents, NLP, real-world data (RWD) analysis, and deep learning
 
 <p align="left">
