@@ -22,14 +22,12 @@ My interests lie at the intersection of machine learning and healthcare. I aim t
 
 ## 🧩 Experience & Projects
 
-### 🧬 RFDiffusion-based Protein Design 
+### 🧬 RFDiffusion-based Protein Design (*Ongoing project*)
 **Protein Design · Bioinformatics · Diffusion**  
 Built a large-scale peptide analysis pipeline integrating peptide-library preprocessing,
 ESMFold structure prediction, RFantibody-compatible structure formatting, and pair embedding extraction.
 This project supports thesis research on peptide representation learning and downstream embedding-based analysis.  
 🔗 [View Project](https://github.com/FrankFengF/Peptide-RFDiffusion-Thesis)
-
-🔗 *Ongoing project*
 
 ---
 
