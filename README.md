@@ -22,11 +22,12 @@ My interests lie at the intersection of machine learning and healthcare. I aim t
 
 ## 🧩 Experience & Projects
 
-###  🏥 Healthcare LLM 
-**Large Language Models · Healthcare AI · Real-World Data (RWD)**  
-Developing a healthcare-focused large language model trained on Electronic Health Records (EHR),
-with the goal of modeling clinical context and supporting downstream healthcare analytics
-and decision-making tasks.  
+### 🧬 Peptide RFdiffusion Thesis
+**Protein Design · Bioinformatics · Deep Learning**  
+Built a large-scale peptide analysis pipeline integrating peptide-library preprocessing,
+ESMFold structure prediction, RFantibody-compatible structure formatting, and pair embedding extraction.
+This project supports thesis research on peptide representation learning and downstream embedding-based analysis.  
+🔗 [View Project](https://github.com/FrankFengF/Peptide-RFDiffusion-Thesis)
 🔗 *Ongoing project*
 
 ---
